@@ -1,3 +1,11 @@
 h1 {
-    color: blue;
+    color: red;
 }
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 70px;
+    text-align: center;
+  }
